@@ -1,5 +1,5 @@
 import time
-
+#Легкое дз
 
 class TrafficLight:
     COLOR_TIMES = {'Красный': 7,
